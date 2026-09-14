@@ -4,7 +4,7 @@
 
 ## Что сделать
 
-1. Скачайте архив [`Vertical-iOS-no-Mac.zip`](https://github.com/Yl7oPoTblU/vertical-mobile-app/releases/download/v2.1/Vertical-iOS-no-Mac.zip) и распакуйте его в приложении «Файлы».
+1. Скачайте архив [Vertical-iOS-no-Mac.zip](https://github.com/Yl7oPoTblU/vertical-mobile-app/releases/download/v2.1/Vertical-iOS-no-Mac.zip) и распакуйте его в приложении «Файлы».
 2. Установите бесплатное приложение [a-Shell из App Store](https://apps.apple.com/app/a-shell/id1473805438) и откройте его.
 3. Введите команду:
 
@@ -29,3 +29,5 @@
 - Не открывайте локальный адрес приложения в Safari: iOS может остановить сервер после перехода из a-Shell.
 - Пока работает приложение, не закрывайте a-Shell через список запущенных программ.
 - Записи и настройки хранятся локально. Удаление a-Shell или очистка его данных может удалить сохранённую информацию.
+
+Автор оригинального проекта — **Yl7oPoTblU_KoT**.
