@@ -1,7 +1,5 @@
 # Инструкция по подключению iOS к приложению
 
-Этот способ проверен — у Макса получилось запустить приложение.
-
 ## Что сделать
 
 1. Скачайте архив [Vertical-iOS-no-Mac.zip](https://github.com/Yl7oPoTblU/vertical-mobile-app/releases/download/v2.1/Vertical-iOS-no-Mac.zip) и распакуйте его в приложении «Файлы».
