@@ -8,7 +8,9 @@
 
 - **Android:** [скачать последнюю версию](https://github.com/Yl7oPoTblU/vertical-mobile-app/releases/latest)
 - **Прямая ссылка на APK 2.1:** [Vertical-v2.1.apk](https://github.com/Yl7oPoTblU/vertical-mobile-app/releases/download/v2.1/Vertical-v2.1.apk)
-- **Инструкция:** [`Как скачать и установить приложение`](./КАК_СКАЧАТЬ_ПРИЛОЖЕНИЕ.md)
+- **iPhone/iPad без Mac:** [Vertical-iOS-no-Mac.zip](https://github.com/Yl7oPoTblU/vertical-mobile-app/releases/download/v2.1/Vertical-iOS-no-Mac.zip)
+- **Инструкция Android:** [`Как скачать и установить приложение`](./КАК_СКАЧАТЬ_ПРИЛОЖЕНИЕ.md)
+- **Инструкция iOS:** [`Как запустить на iPhone или iPad`](./КАК_ЗАПУСТИТЬ_НА_IOS.md)
 - **Исходный код:** архив [`Вертикаль-исходники.zip`](./Вертикаль-исходники.zip)
 
 Для установки APK на Android может потребоваться разрешить установку приложений из выбранного браузера или файлового менеджера.
