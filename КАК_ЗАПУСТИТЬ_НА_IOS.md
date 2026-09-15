@@ -1,8 +1,10 @@
 # Инструкция по подключению iOS к приложению
 
+Этот способ проверен — у Макса получилось запустить приложение.
+
 ## Что сделать
 
-1. Скачайте архив [Vertical-iOS-no-Mac.zip](https://github.com/Yl7oPoTblU/vertical-mobile-app/releases/download/v2.1/Vertical-iOS-no-Mac.zip) и распакуйте его в приложении «Файлы».
+1. Скачайте архив [`Vertical-iOS-no-Mac.zip`](https://github.com/Yl7oPoTblU/vertical-mobile-app/releases/download/v2.3/Vertical-iOS-no-Mac.zip) и распакуйте его в приложении «Файлы».
 2. Установите бесплатное приложение [a-Shell из App Store](https://apps.apple.com/app/a-shell/id1473805438) и откройте его.
 3. Введите команду:
 
